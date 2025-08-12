@@ -1,24 +1,26 @@
-# ComfyUI TorchInductorConfig 🚀
+# ComfyUI TorchInductorConfig
 
 Welcome! This set of custom nodes for ComfyUI is all about unlocking the power of `torch.compile` and the Inductor backend. These nodes are designed to give you more control and insight into PyTorch's Inductor, helping you optimize your workflows and squeeze out more drop of performance! ⚡
 
 ## 🛠️ Installation
 
-Follow these steps to get the nodes up and running in your ComfyUI environment.
+Follow these simple steps to get the Memory Purge node up and running in your ComfyUI environment.
 
-### 1. Clone the Repository
+### Step 1. Clone the Repository
 
 First, you need to clone this repository into your `ComfyUI/custom_nodes/` directory.
 
 Open your terminal or command prompt and navigate to your ComfyUI installation folder.
 
-**For a standard installation:**
+**For a standard PC installation:**
 ```bash
 cd ComfyUI/custom_nodes/
 git clone https://github.com/PixWizardry/Comfyui_TorchInductorConfig
 ```
 
-Once installed, restart ComfyUI, and the nodes should be available in the "WAN" and "WAN/diagnostics" categories!
+### Step 2: Restart ComfyUI
+
+After the repository has been successfully cloned, make sure to restart ComfyUI. This will allow it to recognize and load the new custom node. The nodes should be available in the "WAN" and "WAN/diagnostics" categories!
 
 ---
 
