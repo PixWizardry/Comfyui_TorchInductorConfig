@@ -1,4 +1,4 @@
-# ComfyUI TorchInductorConfig
+# ComfyUI Torch Inductor Config
 
 Welcome! This set of custom nodes for ComfyUI is all about unlocking the power of `torch.compile` and the Inductor backend. These nodes are designed to give you more control and insight into PyTorch's Inductor, helping you optimize your workflows and squeeze out more drops of performance! ⚡
 
