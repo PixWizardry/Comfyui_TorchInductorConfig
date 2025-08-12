@@ -22,8 +22,6 @@ git clone https://github.com/PixWizardry/Comfyui_TorchInductorConfig
 
 After the repository has been successfully cloned, make sure to restart ComfyUI. This will allow it to recognize and load the new custom node.
 
----
-
 ## ✨ Available Nodes
 
 Here is a list of the nodes included in this package.
