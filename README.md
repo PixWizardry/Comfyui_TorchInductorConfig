@@ -4,7 +4,7 @@ Welcome! This set of custom nodes for ComfyUI is all about unlocking the power o
 
 ## 🛠️ Installation
 
-Follow these simple steps to get the Memory Purge node up and running in your ComfyUI environment.
+Follow these simple steps to get the node up and running in your ComfyUI environment.
 
 ### Step 1. Clone the Repository
 
