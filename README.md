@@ -20,7 +20,7 @@ git clone https://github.com/PixWizardry/Comfyui_TorchInductorConfig
 
 ### Step 2: Restart ComfyUI
 
-After the repository has been successfully cloned, make sure to restart ComfyUI. This will allow it to recognize and load the new custom node. The nodes should be available in the "WAN" and "WAN/diagnostics" categories!
+After the repository has been successfully cloned, make sure to restart ComfyUI. This will allow it to recognize and load the new custom node.
 
 ---
 
