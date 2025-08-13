@@ -51,3 +51,8 @@ A simple but very useful utility to get quick information about your GPU.
 
 *   **Function**: Displays your GPU's device name, its compute capability (e.g., 8.6 for an RTX 3080), and the corresponding architecture code (e.g., `sm86`).
 *   **Use Case**: Helps you quickly verify your hardware and understand its capabilities, which is crucial for performance tuning.
+
+License
+-------
+This project is licensed under the GNU Affero General Public License v3.0.
+See the LICENSE file for details.
