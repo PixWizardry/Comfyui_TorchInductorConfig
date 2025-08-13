@@ -1,4 +1,11 @@
-# ComfyUI Torch Inductor Config
+# ComfyUI Torch Inductor Config (Triton)
+
+![Python 3.12](https://img.shields.io/badge/Python-3.12-76B900) 
+![NVIDIA RTX Driver Release 580](https://img.shields.io/badge/RTX%20Driver-R580%20U1%20(580.88)-76B900)
+![Pytorch Ver 2.9.0.dev](https://img.shields.io/badge/Pytorch-2.9.0.dev-76B900)
+![Cuda Ver 12.9](https://img.shields.io/badge/Cuda-12.9-76B900)
+
+# WIP
 
 Welcome! This set of custom nodes for ComfyUI is all about unlocking the power of `torch.compile` and the Inductor backend. These nodes are designed to give you more control and insight into PyTorch's Inductor, helping you optimize your workflows and squeeze out more drops of performance! ⚡
 
