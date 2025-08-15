@@ -49,7 +49,7 @@ Ever wondered what configurations the Inductor's heuristics are generating for y
 *   **Use Case**: An essential debugging tool to understand why a kernel might be performing a certain way and to see the direct output of the autotuning process.
 
 ### GPU Capability Inspector (Diagnostic)
-A simple but very useful utility to get quick information about your GPU.
+A simple but very useful utility to get quick information about your GPU & ENV.
 
 *   **Function**: Displays your GPU's device name, its compute capability (e.g., 8.6 for an RTX 3080), and the corresponding architecture code (e.g., `sm86`). Also provides other system info such as version for Python, Pytorch, Cuda, and Platform.
 *   **Use Case**: Helps you quickly verify your hardware and understand its capabilities, which is crucial for performance tuning.
